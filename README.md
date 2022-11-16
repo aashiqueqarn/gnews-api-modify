@@ -31,7 +31,12 @@
 ```bash
 $ npm install
 ```
-
+## Steps to add dependencies
+```
+1. create .env file in root folder
+2. go to gnews site and create a account and activate it
+3. add a key GNEWS_API_KEY=xxxxxxxx in .env file
+```
 ## Running the app
 
 ```bash
